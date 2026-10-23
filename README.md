@@ -2,7 +2,7 @@
 
 ## 1 - Description of Services
 - [Latest Document - EN](https://github.com/CrowdfoxGmbH/general-documents/raw/main/1-dos/1.%20Description%20of%20Services.pdf)
-- [Older Versions](https://github.com/CrowdfoxGmbH/general-documents/tree/main/1-terms)
+- [Older Versions](https://github.com/CrowdfoxGmbH/general-documents/tree/main/1-dos)
 
 ## 2 - General Terms and Conditions
 - [Latest Document - EN](https://github.com/CrowdfoxGmbH/general-documents/raw/main/2-terms/2.%20General%20Terms%20and%20Conditions.pdf)
